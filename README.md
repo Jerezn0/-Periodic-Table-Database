@@ -1,4 +1,3 @@
-# -Periodic-Table-Database
 # Periodic Table Database  
 Proyecto del curso *Relational Database* de FreeCodeCamp.
 
